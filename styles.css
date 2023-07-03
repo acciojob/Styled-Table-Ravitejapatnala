@@ -1,1 +1,15 @@
-/* your code */
+.table{
+	border-collapse: collapse;
+	border-radius: 2px;
+}
+.heading{
+	 background-color: darkblue;
+	color: white;
+}
+.onethree{
+	background-color: lightgray;
+	border: none;
+}
+.twofour{
+	border: none;
+}
